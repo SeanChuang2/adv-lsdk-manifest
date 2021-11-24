@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+   <remote name="seanchuang-github"
+           fetch="https://github.com/SeanChuang2/" />
+
+  <project remote="seanchuang-github" name="flexbuild_lsdk2012" revision="master"/>
+</manifest>
