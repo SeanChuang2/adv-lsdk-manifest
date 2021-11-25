@@ -3,5 +3,5 @@
    <remote name="nxp"
            fetch="https://github.com/NXP/" />
 
-  <project remote="nxp" name="ddr-phy-binary" path="atf/tools/fiptool" revision="v2019.04"/>
+  <project remote="nxp" name="ddr-phy-binary" path="atf/tools/fiptool" revision="fbc036b88acb6c06ffed02c898cbae9856ec75ba"/>
 </manifest>
