@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
    <remote name="github" fetch="https://github.com/" />
-   <remote name="codeaurora" fetch="https://source.codeaurora.org/" />
+   <remote name="codeaurora" fetch="https://source.codeaurora.org/" />]
 
+   <project remote="codeaurora" name="external/qoriq/qoriq-components/atf" path="packages/firmware" revision="LSDK-20.12"/>
    <project remote="github" name="NXP/ddr-phy-binary" path="packages/firmware/atf/tools/fiptool" revision="fbc036b88acb6c06ffed02c898cbae9856ec75ba"/>
    <project remote="codeaurora" name="external/qoriq/qoriq-components/rcw" path="packages/firmware/rcw" revision="bd6675518e6cb22f731c53407cc0631aa240f49f"/>
 </manifest>
