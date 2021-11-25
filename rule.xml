@@ -5,6 +5,7 @@
 
    <project remote="github" name="NXP/ddr-phy-binary" path="packages/firmware/atf/tools/fiptool" revision="fbc036b88acb6c06ffed02c898cbae9856ec75ba"/>
    <project remote="codeaurora" name="external/qoriq/qoriq-components/rcw" path="packages/firmware/rcw" revision="bd6675518e6cb22f731c53407cc0631aa240f49f"/>
+   <project remote="codeaurora" name="external/qoriq/qoriq-components/linux" path="packages/linux/linux" revision="1a6e826f2e11bddf7c89995c700a1c786ba263eb"/>
    <project remote="codeaurora" name="external/qoriq/qoriq-components/atf" path="packages/firmware/atf" revision="2e30517022f80499c6d56523eec44d3ac77ba4e7"/>
    <project remote="codeaurora" name="external/qoriq/qoriq-components/u-boot" path="packages/firmware/u-boot" revision="53e4e60c0ee4e5dd2c7487a0c5dfeb0eaf49a094"/>
 </manifest>
