@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-   <remote name="github" fetch="https://github.com/NXP/" />
-   
+   <remote name="nxp"
+           fetch="https://github.com/NXP/" />
 
-  <project remote="github" name="ddr-phy-binary" path="atf/tools/fiptool" revision="v2019.04"/>
+  <project remote="nxp" name="ddr-phy-binary" path="atf/tools/fiptool" revision="v2019.04"/>
 </manifest>
